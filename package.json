@@ -1,0 +1,23 @@
+{
+  "name": "my-color-converter",
+  "version": "1.0.0",
+  "description": "A simple color converter transforms detects the color format and converts HEX to RGB and RGB to HEX depending on the user's input. ",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IlonaZaika/my-color-converter.git"
+  },
+  "keywords": [
+    "hex",
+    "rgb"
+  ],
+  "author": "IlonaZaika",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/IlonaZaika/my-color-converter/issues"
+  },
+  "homepage": "https://github.com/IlonaZaika/my-color-converter#readme"
+}
